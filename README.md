@@ -1,5 +1,5 @@
 # Introduction to Biomedical Science 📝
-Course slides for the in-person "Introduction to Biomedical Science" module on the MSc in Health Data Analytics and Machine Learning at Imperial College London.
+These are the course slides for the "Introduction to Biomedical Science" module offered through the MSc in Health Data Analytics and Machine Learning program at Imperial College London.
 
 ## Contents
 ⚛️Lecture 1 - Molecules of Life I (Atoms and periodicity, Carbon, Water, Carbohydrates, Lipids, Proteins)  
